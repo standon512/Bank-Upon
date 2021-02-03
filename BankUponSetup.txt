@@ -1,0 +1,10 @@
+Add JXDatePicker
+
+Tools->Pallete->Swing/AWT Components
+Add from jar
+Browse to [NETBEANS HOME]\ide\modules\ext and select swingx-all-1.6.4.jar
+Select JXDatePicker
+Select Swing Controls
+
+
+
